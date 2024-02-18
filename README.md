@@ -50,7 +50,7 @@ We welcome contributions to Convobuzz! To contribute:
 Please read our [CONTRIBUTING.md](LINK_TO_CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
 
 ## Versioning
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/yourusername/convobuzz/tags).
+We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/surabhi-99/convobuzz/tags).
 
 ## Authors and Acknowledgment
 - **Surabhi Thakur** - *Web Developer* - [surabhi-99](https://github.com/surabhi-99)
